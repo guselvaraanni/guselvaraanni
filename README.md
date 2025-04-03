@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I completed my 4 months Fulltime Internship at **IITM Research park**
+🔭 I recently completed a 4-month full-time internship at IITM Research Park (Jan 2024 – Apr 2024), where I worked on cutting-edge projects in software development.
 
-- 🌱 I’m currently learning **API integration using Flask , Mongo DB**
+💼 Currently, I'm working as an Intern at PiLabz Electro Mechanical System (Oct 2025 – Present) for a 6-month period, gaining hands-on experience in backend development and system integration.
 
-- 💬 Ask me about **React , Mongo DB , GitHub ,Java , Python , C**
+🌱 I'm actively learning API integration using Flask & MongoDB to enhance my backend development skills.
 
-- 📫 How to reach me **guselvaraanni24@gmail.com**
+💡 Passionate about Java and Python, I enjoy solving complex problems and building scalable applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
