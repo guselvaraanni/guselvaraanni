@@ -1,32 +1,160 @@
-<h1 align="center">Hi 👋, I'm Selva Raanni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+# Hey, I'm Selva Raanni 👋
 
+**Python Backend Engineer** | Building scalable APIs and concurrent systems | IIT Madras Research Park Alumnus
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guselvaraanni&label=Profile%20views&color=0e75b6&style=flat" alt="guselvaraanni" /> </p>
+```
+🔧 REST APIs  │  🗄️  Databases  │  ⚡ Concurrent Systems  │  🚀 Performance Optimization
+```
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-🔭 I completed a 4-month full-time internship at IITM Research Park (Jan 2024 – Apr 2024), where I worked on cutting-edge projects in software development.
+## 🎯 About Me
 
-💼 Currently, I'm working at PiLabz Electro Mechanical System (Oct 2025 – Present), gaining hands-on experience in backend development and system integration.
+I'm a backend engineer with **~1 year of production experience** building robust REST APIs, concurrent systems, and integrations with external solvers. Currently working at **PiLabz Electro Mechanical Systems**, where I optimize simulation pipelines and engineered a dynamic motor configuration engine.
 
-🌱 I'm actively learning API integration using Flask & MongoDB to enhance my backend development skills.
+**Key Highlights:**
+- 🏆 **1st Prize** - National Research Paper Presentation (IIT Madras Research Park, Apr 2023)
+- ⚡ **80s latency** - Optimized motor simulations from 2000s to 80s using Redis + multiprocessing
+- 🎓 **CGPA 9.0** - B.Tech Information Technology (PSNA College of Engineering)
+- 🔬 **60% efficiency gain** - Automated mechanical/electrical input processing for motor designs
 
-💡 Passionate about Java and Python, I enjoy solving complex problems and building scalable applications.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/selva raanni gu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selva raanni gu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/selva raanni gu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="selva raanni gu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/guselvaraanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guselvaraanni" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
+### **Python Backend Engineer** @ PiLabz Electro Mechanical Systems
+📍 Tenkasi | Jun 2024 – Present
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guselvaraanni&show_icons=true&locale=en&layout=compact" alt="guselvaraanni" /></p>
+- **Dynamic Motor Configuration Engine**: Engineered config system for 4+ motor topologies (SPMSM, IPMSM, SCIM, SynRM) with pre-simulation validation logic
+- **Performance Optimization**: Implemented Redis-backed multiprocessing worker pool (8 workers) + Server-Sent Events (SSE)
+  - **Result**: 2000s → 80s latency | Eliminated blocking API calls
+- **Reliability**: Developed robust validation layers and comprehensive unit/regression test suites
+- **Tech Stack**: Python 3.8+, Flask, Redis, MySQL, Postman
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guselvaraanni&show_icons=true&locale=en" alt="guselvaraanni" /></p>
+### **Software Engineer Intern** @ PiLabz Electro Mechanical Systems
+📍 Tenkasi | Oct 2024 – May 2025
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guselvaraanni&" alt="guselvaraanni" /></p>
+- Designed reusable OOP backend modules for motor configuration
+- Automated complex engineering cost estimation calculations
+- Built FreeCAD macro scripts for automated modeling workflows
+
+### **Software Development Intern** @ IIT Madras Research Park
+📍 Chennai | Jan 2024 – Apr 2024
+
+- Built OOP modules for mechanical/electrical input processing → **60% manual effort reduction**
+- Developed Flask REST APIs with automated input validation
+- Streamlined simulation debugging workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+```
+Python 3.8+  │  Flask  │  Jinja2  │  OOP Architecture
+```
+
+### **Backend Engineering**
+```
+REST APIs  │  Input Validation  │  Structured Logging  │  Error Handling
+```
+
+### **Concurrency & Scaling**
+```
+Multiprocessing  │  Redis (Queues)  │  Async Processing  │  Server-Sent Events (SSE)
+```
+
+### **Databases**
+```
+MySQL  │  MongoDB  │  Oracle
+```
+
+### **Testing & Tools**
+```
+Unit Testing  │  Regression Testing  │  Git  │  Postman  │  Jenkins
+```
+
+### **Additional Skills**
+```
+Java  │  JavaScript  │  React  │  HTML/CSS  │  Bootstrap
+```
+
+---
+
+## 📊 Performance & Metrics
+
+| Metric | Achievement |
+|--------|-------------|
+| **Simulation Latency** | 2000s → 80s (98% reduction) |
+| **Manual Effort Reduction** | 60% decrease in design time |
+| **Uptime** | Robust validation prevents system regressions |
+| **Worker Pool** | 8 concurrent workers handling multi-topology configs |
+| **Code Quality** | Comprehensive unit + regression test coverage |
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+PSNA College of Engineering and Technology | 2021 – 2025  
+📍 Dindigul, India
+
+**CGPA:** 9.0 / 10.0
+
+---
+
+## 📈 What I'm Learning
+
+Currently diving deep into:
+- 🔌 **Advanced API Integration** using Flask & MongoDB
+- 📊 **System Design** for high-concurrency applications
+- 🔄 **Microservices Architecture** patterns
+- 🚀 **Production Deployment** & Infrastructure
+
+---
+
+## 🔗 Connect With Me
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://linkedin.com/in/selvaraanni-gu">
+    <strong>LinkedIn</strong><br/>selvaraanni-gu
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/guselvaraanni">
+    <strong>GitHub</strong><br/>@guselvaraanni
+  </a>
+</td>
+<td align="center">
+  <a href="https://leetcode.com/guselvaraanni">
+    <strong>LeetCode</strong><br/>guselvaraanni
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:guselvaraanni24@gmail.com">
+    <strong>Email</strong><br/>guselvaraanni24@gmail.com
+  </a>
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Random Facts
+
+- 📐 Deep expertise in **motor design automation** and FEA workflows
+- 🧩 Obsessed with writing clean, testable, maintainable code
+- 🔍 Debugging complex concurrency issues is my jam
+- 🎯 Always thinking about system optimization and scalability
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 🚀
+
+*Last updated: 2025 | Always building, always learning*
+
+</div>
