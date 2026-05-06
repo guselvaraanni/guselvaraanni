@@ -23,20 +23,14 @@ I'm a backend engineer with **~1 year of production experience** building robust
 ## 💼 Experience
 
 ### **Python Backend Engineer** @ PiLabz Electro Mechanical Systems
-📍 Tenkasi | Jun 2024 – Present
+📍 Tenkasi | Oct 2024 – Present
 
 - **Dynamic Motor Configuration Engine**: Engineered config system for 4+ motor topologies (SPMSM, IPMSM, SCIM, SynRM) with pre-simulation validation logic
 - **Performance Optimization**: Implemented Redis-backed multiprocessing worker pool (8 workers) + Server-Sent Events (SSE)
   - **Result**: 2000s → 80s latency | Eliminated blocking API calls
 - **Reliability**: Developed robust validation layers and comprehensive unit/regression test suites
 - **Tech Stack**: Python 3.8+, Flask, Redis, MySQL, Postman
-
-### **Software Engineer Intern** @ PiLabz Electro Mechanical Systems
-📍 Tenkasi | Oct 2024 – May 2025
-
-- Designed reusable OOP backend modules for motor configuration
-- Automated complex engineering cost estimation calculations
-- Built FreeCAD macro scripts for automated modeling workflows
+  
 
 ### **Software Development Intern** @ IIT Madras Research Park
 📍 Chennai | Jan 2024 – Apr 2024
