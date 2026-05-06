@@ -45,7 +45,7 @@ I'm a backend engineer with **~1 year of production experience** building robust
 
 ### **Languages & Frameworks**
 ```
-Python 3.8+  │  Flask  │  Jinja2  │  OOP Architecture
+Python 3.8+  │  Flask  │  Django  │  OOP Architecture
 ```
 
 ### **Backend Engineering**
@@ -70,7 +70,7 @@ Unit Testing  │  Regression Testing  │  Git  │  Postman  │  Jenkins
 
 ### **Additional Skills**
 ```
-Java  │  JavaScript  │  React  │  HTML/CSS  │  Bootstrap
+Java  │  JavaScript  │  React  │  HTML/CSS  │  Bootstrap | Jinja2
 ```
 
 ---
