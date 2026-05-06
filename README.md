@@ -22,7 +22,7 @@ I'm a backend engineer with **~1 year of production experience** building robust
 
 ## 💼 Experience
 
-### **Python Backend Engineer** @ PiLabz Electro Mechanical Systems
+### **Software Engineer** @ PiLabz Electro Mechanical Systems
 📍 Tenkasi | Oct 2024 – Present
 
 - **Dynamic Motor Configuration Engine**: Engineered config system for 4+ motor topologies (SPMSM, IPMSM, SCIM, SynRM) with pre-simulation validation logic
