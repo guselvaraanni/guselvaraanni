@@ -70,7 +70,7 @@ Unit Testing  │  Regression Testing  │  Git  │  Postman  │  Jenkins
 
 ### **Additional Skills**
 ```
-Java  │  JavaScript  │  React  │  HTML/CSS  │  Bootstrap | Jinja2
+Java  │  React  │  HTML/CSS  │  Bootstrap | Jinja2
 ```
 
 ---
@@ -149,6 +149,6 @@ Currently diving deep into:
 
 **Let's build something amazing together!** 🚀
 
-*Last updated: 2025 | Always building, always learning*
+*Last updated: 2026 | Always building, always learning*
 
 </div>
