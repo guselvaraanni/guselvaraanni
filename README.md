@@ -27,9 +27,9 @@ I'm a backend engineer with **nearly 2 years of production experience** building
 
 - **Dynamic Motor Configuration Engine**: Engineered config system for 4+ motor topologies (SPMSM, IPMSM, SCIM, SynRM) with pre-simulation validation logic
 - **Performance Optimization**: Implemented Redis-backed multiprocessing worker pool (8 workers) + Server-Sent Events (SSE)
-  - **Result**: 2000s → 80s latency | Eliminated blocking API calls
+  - **Result**: 200s → 80s latency | Eliminated blocking API calls
 - **Reliability**: Developed robust validation layers and comprehensive unit/regression test suites
-- **Tech Stack**: Python 3.8+, Flask, Redis, MySQL, Postman
+- **Tech Stack**: Python 3.8+, Flask, Python RQ, MySQL, Postman
   
 
 ### **Software Development Intern** @ IIT Madras Research Park
