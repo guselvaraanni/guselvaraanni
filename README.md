@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-I'm a backend engineer with **~1 year of production experience** building robust REST APIs, concurrent systems, and integrations with external solvers. Currently working at **PiLabz Electro Mechanical Systems**, where I optimize simulation pipelines and engineered a dynamic motor configuration engine.
+I'm a backend engineer with **nearly 2 years of production experience** building robust REST APIs, concurrent systems, and integrations with external solvers. Currently working at **PiLabz Electro Mechanical Systems**, where I optimize simulation pipelines and engineered a dynamic motor configuration engine.
 
 **Key Highlights:**
 - 🏆 **1st Prize** - National Research Paper Presentation (IIT Madras Research Park, Apr 2023)
