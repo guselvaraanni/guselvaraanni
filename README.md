@@ -14,7 +14,7 @@ I'm a backend engineer with **nearly 2 years of production experience** building
 
 **Key Highlights:**
 - 🏆 **1st Prize** - National Research Paper Presentation (IIT Madras Research Park, Apr 2023)
-- ⚡ **80s latency** - Optimized motor simulations from 2000s to 80s using Redis + multiprocessing
+- ⚡ **80s latency** - Optimized motor simulations from 200s to 80s using Redis + multiprocessing
 - 🎓 **CGPA 9.0** - B.Tech Information Technology (PSNA College of Engineering)
 - 🔬 **60% efficiency gain** - Automated mechanical/electrical input processing for motor designs
 
