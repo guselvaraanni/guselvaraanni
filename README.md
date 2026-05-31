@@ -1,154 +1,84 @@
-# Hey, I'm Selva Raanni 👋
+# Selva Raanni GU
 
-**Python Backend Engineer** | Building scalable APIs and concurrent systems | IIT Madras Research Park Alumnus
-
-```
-🔧 REST APIs  │  🗄️  Databases  │  ⚡ Concurrent Systems  │  🚀 Performance Optimization
-```
+Python Backend Engineer · ~1 year professional experience · Flask · Django · REST APIs · Concurrency
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a backend engineer with **nearly 2 years of production experience** building robust REST APIs, concurrent systems, and integrations with external solvers. Currently working at **PiLabz Electro Mechanical Systems**, where I optimize simulation pipelines and engineered a dynamic motor configuration engine.
+Python Backend Engineer with ~1 year of professional experience building REST APIs and concurrent
+background task systems. Currently working at PiLabz Electro Mechanical Systems, a startup promoted
+by Zoho Corporation, where I build and optimize backend APIs for motor simulation workflows.
+Previously interned at IIT Madras Research Park.
 
-**Key Highlights:**
-- 🏆 **1st Prize** - National Research Paper Presentation (IIT Madras Research Park, Apr 2023)
-- ⚡ **80s latency** - Optimized motor simulations from 200s to 80s using Redis + multiprocessing
-- 🎓 **CGPA 9.0** - B.Tech Information Technology (PSNA College of Engineering)
-- 🔬 **60% efficiency gain** - Automated mechanical/electrical input processing for motor designs
-
----
-
-## 💼 Experience
-
-### **Software Engineer** @ PiLabz Electro Mechanical Systems
-📍 Tenkasi | Oct 2024 – Present
-
-- **Dynamic Motor Configuration Engine**: Engineered config system for 4+ motor topologies (SPMSM, IPMSM, SCIM, SynRM) with pre-simulation validation logic
-- **Performance Optimization**: Implemented Redis-backed multiprocessing worker pool (8 workers) + Server-Sent Events (SSE)
-  - **Result**: 200s → 80s latency | Eliminated blocking API calls
-- **Reliability**: Developed robust validation layers and comprehensive unit/regression test suites
-- **Tech Stack**: Python 3.8+, Flask, Python RQ, MySQL, Postman
-  
-
-### **Software Development Intern** @ IIT Madras Research Park
-📍 Chennai | Jan 2024 – Apr 2024
-
-- Built OOP modules for mechanical/electrical input processing → **60% manual effort reduction**
-- Developed Flask REST APIs with automated input validation
-- Streamlined simulation debugging workflows
+**Highlights**
+- Reduced simulation API latency from 200s to 80s using a Python RQ worker pool (Redis-backed)
+- Automated data processing workflows at IIT Madras Research Park → ~60% reduction in manual effort
+- B.Tech in Information Technology, PSNA College of Engineering | CGPA: 9.0
+- 1st Prize — National Research Paper Presentation, IIT Madras Research Park (Apr 2023)
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-### **Languages & Frameworks**
-```
-Python 3.8+  │  Flask  │  Django  │  OOP Architecture
-```
+**Software Engineer — PiLabz Electro Mechanical Systems** *(promoted by Zoho Corporation)*
+Tenkasi | Oct 2024 – Present
 
-### **Backend Engineering**
-```
-REST APIs  │  Input Validation  │  Structured Logging  │  Error Handling
-```
+- Reduced motor simulation latency from 200s to 80s by offloading CPU-bound tasks to a
+  Python RQ worker pool (Redis-backed), eliminating blocking on the main API thread
+- Built 20+ Flask REST API endpoints with structured input validation and centralized
+  error handling
+- Implemented real-time progress tracking using Server-Sent Events (SSE),
+  enabling non-blocking status updates from background workers to the frontend
+- Integrated AWS S3 via Boto3 for secure file uploads and media storage,
+  offloading file I/O from the main server
+- Wrote Pytest unit and regression test suites covering API endpoints and
+  data validation logic
 
-### **Concurrency & Scaling**
-```
-Multiprocessing  │  Redis (Queues)  │  Async Processing  │  Server-Sent Events (SSE)
-```
+**Software Development Intern — IIT Madras Research Park**
+Chennai | Jan 2024 – Apr 2024
 
-### **Databases**
-```
-MySQL  │  MongoDB  │  Oracle
-```
-
-### **Testing & Tools**
-```
-Unit Testing  │  Regression Testing  │  Git  │  Postman  │  Jenkins
-```
-
-### **Additional Skills**
-```
-Java  │  React  │  HTML/CSS  │  Bootstrap | Jinja2
-```
+- Automated repetitive Excel-based data processing workflows using Python,
+  reducing processing time by ~60% and eliminating manual entry errors
+- Built 7 internal Flask REST API endpoints with payload validation to
+  streamline backend simulation data workflows
 
 ---
 
-## 📊 Performance & Metrics
+## Projects
 
-| Metric | Achievement |
-|--------|-------------|
-| **Simulation Latency** | 2000s → 80s (98% reduction) |
-| **Manual Effort Reduction** | 60% decrease in design time |
-| **Uptime** | Robust validation prevents system regressions |
-| **Worker Pool** | 8 concurrent workers handling multi-topology configs |
-| **Code Quality** | Comprehensive unit + regression test coverage |
+- [Concurrency-Safe Ticketing API](YOUR_REPO_LINK_HERE) — Flask · MySQL · Threading · Row-level locking to prevent double-booking under concurrent load
+- [Enterprise Workforce HRIS API](YOUR_REPO_LINK_HERE) — Django REST Framework · MySQL · Threaded CSV ingestion pipeline with audit trails
+- [Async Report Generation API](YOUR_REPO_LINK_HERE) — Flask · SQLAlchemy · Threaded CSV export · MySQL polling endpoint for status tracking
 
 ---
 
-## 🎓 Education
+## Tech Stack
 
-**B.Tech in Information Technology**  
-PSNA College of Engineering and Technology | 2021 – 2025  
-📍 Dindigul, India
-
-**CGPA:** 9.0 / 10.0
-
----
-
-## 📈 What I'm Learning
-
-Currently diving deep into:
-- 🔌 **Advanced API Integration** using Flask & MongoDB
-- 📊 **System Design** for high-concurrency applications
-- 🔄 **Microservices Architecture** patterns
-- 🚀 **Production Deployment** & Infrastructure
+**Languages & Frameworks** — Python 3.8+, Flask, Django, Django REST Framework  
+**Databases & Storage** — MySQL, SQLAlchemy, AWS S3 / Boto3, Redis (via Python RQ)  
+**Concurrency & Async** — Python RQ, Threading, Multiprocessing, Server-Sent Events (SSE)  
+**Tools & Testing** — Git, Pytest, Postman, Linux (Ubuntu)
 
 ---
 
-## 🔗 Connect With Me
+## Education
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://linkedin.com/in/selvaraanni-gu">
-    <strong>LinkedIn</strong><br/>selvaraanni-gu
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/guselvaraanni">
-    <strong>GitHub</strong><br/>@guselvaraanni
-  </a>
-</td>
-<td align="center">
-  <a href="https://leetcode.com/guselvaraanni">
-    <strong>LeetCode</strong><br/>guselvaraanni
-  </a>
-</td>
-<td align="center">
-  <a href="mailto:guselvaraanni24@gmail.com">
-    <strong>Email</strong><br/>guselvaraanni24@gmail.com
-  </a>
-</td>
-</tr>
-</table>
+B.Tech in Information Technology — PSNA College of Engineering and Technology
+2021 – 2025 | Dindigul, India | CGPA: 9.0 / 10.0
 
 ---
 
-## 💡 Random Facts
+## Currently Learning
 
-- 📐 Deep expertise in **motor design automation** and FEA workflows
-- 🧩 Obsessed with writing clean, testable, maintainable code
-- 🔍 Debugging complex concurrency issues is my jam
-- 🎯 Always thinking about system optimization and scalability
+- Docker and container-based deployment
+- FastAPI and async Python patterns
+- System design fundamentals (load balancing, caching, message queues)
 
 ---
 
-<div align="center">
+## Connect
 
-**Let's build something amazing together!** 🚀
-
-*Last updated: 2026 | Always building, always learning*
-
-</div>
+- Email: guselvaraanni24@gmail.com
+- LinkedIn: linkedin.com/in/selva-raanni-gu-a0604a238
+- LeetCode: leetcode.com/guselvaraanni
