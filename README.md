@@ -1,84 +1,115 @@
+<p align="center">
+  <img src="java_banner.png" alt="Java Backend Developer" width="100%"/>
+</p>
+
 # Selva Raanni GU
 
-Python Backend Engineer · ~1 year professional experience · Flask · Django · REST APIs · Concurrency
+**Java Backend Developer · Software Engineer at PiLabz · Spring Boot · REST APIs · PostgreSQL · JPA/Hibernate**
 
 ---
 
 ## About Me
 
-Python Backend Engineer with ~1 year of professional experience building REST APIs and concurrent
-background task systems. Currently working at PiLabz Electro Mechanical Systems, a startup promoted
-by Zoho Corporation, where I build and optimize backend APIs for motor simulation workflows.
-Previously interned at IIT Madras Research Park.
+Java Backend Developer with hands-on experience building REST APIs, microservices, and real-time backend systems, with professional software engineering experience at **PiLabz Electro Mechanical Systems** (associated with Zoho Corporation).
+
+I build backend applications with **Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, and PostgreSQL**, focused on clean layered architecture, concurrency, and reliable failure handling.
 
 **Highlights**
-- Reduced simulation API latency from 200s to 80s using a Python RQ worker pool (Redis-backed)
-- Automated data processing workflows at IIT Madras Research Park → ~60% reduction in manual effort
+
+- Software Engineer at PiLabz, building REST APIs, API gateway routing, and report-generation services across microservices
+- Developed 30+ REST APIs in a layered architecture (controller, service, data access) with request validation and centralized exception handling
+- Designed PostgreSQL schemas with one-to-many relationships, foreign keys, and cascading deletes
+- Reduced simulation API latency from 200s to 80s by offloading heavy work to a Redis-backed background worker pool
+- Implemented real-time status updates with Server-Sent Events, replacing repeated client-side HTTP polling
+- Built Java projects demonstrating concurrency, retry handling, JPA relationships, Streams, Lambda expressions, and exception handling
 - B.Tech in Information Technology, PSNA College of Engineering | CGPA: 9.0
-- 1st Prize — National Research Paper Presentation, IIT Madras Research Park (Apr 2023)
+- 1st Prize, National Research Paper Presentation, IIT Madras Research Park (Apr 2023)
 
 ---
 
 ## Experience
 
-**Software Engineer — PiLabz Electro Mechanical Systems** *(promoted by Zoho Corporation)*
-Tenkasi | Oct 2024 – Present
+### Software Engineer: PiLabz Electro Mechanical Systems
+*Associated with Zoho Corporation* · Tenkasi, Tamil Nadu · Jun 2025 – Present
+*(Software Engineer Intern: Oct 2024 – May 2025)*
 
-- Reduced motor simulation latency from 200s to 80s by offloading CPU-bound tasks to a
-  Python RQ worker pool (Redis-backed), eliminating blocking on the main API thread
-- Built 20+ Flask REST API endpoints with structured input validation and centralized
-  error handling
-- Implemented real-time progress tracking using Server-Sent Events (SSE),
-  enabling non-blocking status updates from background workers to the frontend
-- Integrated AWS S3 via Boto3 for secure file uploads and media storage,
-  offloading file I/O from the main server
-- Wrote Pytest unit and regression test suites covering API endpoints and
-  data validation logic
+- Developed 30+ REST APIs in a layered architecture with request validation and centralized exception handling
+- Designed PostgreSQL schemas with one-to-many relationships, foreign keys, and cascading deletes to manage project data and generated records
+- Implemented API gateway routing to direct client requests to the appropriate microservices and monitor service health
+- Built a report-generation service that collects data from multiple microservices and exposes job status through polling APIs
+- Implemented real-time status updates using Server-Sent Events, replacing repeated client-side polling
+- Designed file-storage paths organized by organization, user, and project to separate uploads, outputs, and reports
+- Added audit and process logging for user actions, background jobs, and failures to trace issues across services
 
-**Software Development Intern — IIT Madras Research Park**
-Chennai | Jan 2024 – Apr 2024
+### Software Engineer Intern: IIT Madras Research Park
+Chennai, Tamil Nadu · Jan 2024 – Apr 2024
 
-- Automated repetitive Excel-based data processing workflows using Python,
-  reducing processing time by ~60% and eliminating manual entry errors
-- Built 7 internal Flask REST API endpoints with payload validation to
-  streamline backend simulation data workflows
+- Designed MongoDB collections and document schemas to store and organize project data
+- Built 7 REST APIs for create, read, update, and delete operations on project records used by internal applications
 
 ---
 
-## Projects
+## Java Backend Projects
 
-- [Concurrency-Safe Ticketing API](YOUR_REPO_LINK_HERE) — Flask · MySQL · Threading · Row-level locking to prevent double-booking under concurrent load
-- [Enterprise Workforce HRIS API](YOUR_REPO_LINK_HERE) — Django REST Framework · MySQL · Threaded CSV ingestion pipeline with audit trails
-- [Async Report Generation API](YOUR_REPO_LINK_HERE) — Flask · SQLAlchemy · Threaded CSV export · MySQL polling endpoint for status tracking
+### [PulseCheck: API & Service Health Monitor](YOUR_REPO_LINK_HERE)
+
+**Java · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · PostgreSQL**
+
+- Built REST APIs to register backend services and track availability, response time, and incident history
+- Implemented concurrent health checks using Java multithreading and computed availability and failure metrics with Streams
+
+### [PricePulse: Product Price Drop Tracker](YOUR_REPO_LINK_HERE)
+
+**Java · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL**
+
+- Built REST APIs for products, price history, and target prices using JPA relationships and validation
+- Implemented price-drop detection and price-history analysis using Streams and Lambda expressions
+
+### [RetryGuard: Smart API Retry & Failure Tracker](YOUR_REPO_LINK_HERE)
+
+**Java · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL**
+
+- Built a retry system for transient API failures with configurable retries and exponential backoff
+- Tracked retry attempts, failures, and successful recoveries using Java exception handling and Streams
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks** — Python 3.8+, Flask, Django, Django REST Framework  
-**Databases & Storage** — MySQL, SQLAlchemy, AWS S3 / Boto3, Redis (via Python RQ)  
-**Concurrency & Async** — Python RQ, Threading, Multiprocessing, Server-Sent Events (SSE)  
-**Tools & Testing** — Git, Pytest, Postman, Linux (Ubuntu)
+**Languages**
+Java, SQL
+
+**Core Java**
+OOP, Collections, Generics, Streams, Multithreading, Lambda Expressions, Exception Handling
+
+**Backend & Frameworks**
+Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, RBAC, Concurrency
+
+**Databases**
+PostgreSQL, MySQL, MongoDB
+
+**Architecture**
+MVC, Layered Architecture, Microservices, API Gateway
+
+**Real-Time & Infrastructure**
+Server-Sent Events (SSE), Redis, AWS S3
+
+**Tools**
+Git, Postman
 
 ---
 
 ## Education
 
-B.Tech in Information Technology — PSNA College of Engineering and Technology
+**B.Tech in Information Technology**
+PSNA College of Engineering and Technology
 2021 – 2025 | Dindigul, India | CGPA: 9.0 / 10.0
-
----
-
-## Currently Learning
-
-- Docker and container-based deployment
-- FastAPI and async Python patterns
-- System design fundamentals (load balancing, caching, message queues)
 
 ---
 
 ## Connect
 
-- Email: guselvaraanni24@gmail.com
-- LinkedIn: linkedin.com/in/selva-raanni-gu-a0604a238
-- LeetCode: leetcode.com/guselvaraanni
+- **Email:** guselvaraanni24@gmail.com
+- **LinkedIn:** linkedin.com/in/selva-raanni-gu-a0604a238
+- **LeetCode:** leetcode.com/guselvaraanni
+- **Portfolio:** https://selvaraanni-portfolio.vercel.app/
