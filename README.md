@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="java_banner.png" alt="Java Backend Developer" width="100%"/>
-</p>
-
 # Selva Raanni GU
 
 **Java Backend Developer · Software Engineer at PiLabz · Spring Boot · REST APIs · PostgreSQL · JPA/Hibernate**
